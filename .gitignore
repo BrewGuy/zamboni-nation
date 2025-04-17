@@ -7,3 +7,4 @@ create_master.php
 create_master_playoffs.php
 local.php
 entries.php
+*.json
