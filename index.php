@@ -18,7 +18,9 @@
       <div class="col-12 text-center">
         <h2>Welcome to Zamboni Nation!</h2>
 
-        <h3 style="font-weight: 700">Pick 12 forwards, 6 defencemen, and 2 goalies.</h3>
+        <h3 style="font-weight: 700">The playoffs have begun!</h3>
+
+        <h4>If you notice any scoring irregularities, or something just doesn't look right, please let me know!</h4>
 
         <p style="font-weight: 700">Scoring works as follows:</p>
 

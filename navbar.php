@@ -9,21 +9,18 @@
           <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="https://brewguy.ca/hockeypool/">Home</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="picks.php">Make Picks</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="entries.php">Entries</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link disabled" aria-disabled="true" href="standings.php">Standings</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link disabled" aria-disabled="true" href="player_rankings.php">Player Rankings</a>
-          </li>
           <!-- <li class="nav-item">
-            <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+            <a class="nav-link disabled" aria-current="page" href="picks.php">Make Picks</a>
           </li> -->
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="entries.php">Entries</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" aria-disabled="true" href="standings.php">Standings</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" aria-disabled="true" href="player_rankings.php">Player Rankings</a>
+          </li>
         </ul>
       </div>
     </div>
