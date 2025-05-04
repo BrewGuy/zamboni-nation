@@ -54,7 +54,7 @@ input.rowCheckbox {
 }
 @media (min-width: 1200px) {
   .team-container, .final-team-container {
-    width: 30%;
+    width: 40%;
     margin: 1.6%;
   }
 }
